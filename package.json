@@ -1,0 +1,39 @@
+{
+  "_from": "bu-subject-choice",
+  "_id": "bu-subject-choice@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-10Y2WvQQ43pY1xN0kMiaH4WWuxJg7kk8/2IrX8QORXqMwC7n7paI6LF/pLsOJs7o6MWcCE/2CWr8tgZaLf8+5g==",
+  "_location": "/bu-subject-choice",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "bu-subject-choice",
+    "name": "bu-subject-choice",
+    "escapedName": "bu-subject-choice",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bu-subject-choice/-/bu-subject-choice-1.1.1.tgz",
+  "_shasum": "49994a03c11d77991506d8eb5ec521553edb8a5c",
+  "_spec": "bu-subject-choice",
+  "_where": "/home/abu-rifat/My Files/ExpressJS/buAdmission",
+  "author": {
+    "name": "Abu Rifat Muhammed Al Hasib"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Available Subject Choice List Based on Admission Test Points",
+  "license": "ISC",
+  "main": "main.js",
+  "name": "bu-subject-choice",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
